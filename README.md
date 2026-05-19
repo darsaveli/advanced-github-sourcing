@@ -23,6 +23,6 @@ Pro Plan Includes:
 
 <img src="https://github.com/darsaveli/GitHub-Sourcing/blob/main/images/supportcat.png" width="150px" align="left">
 
-The 2026 training is currently ---> on hold <--- If you would like to join the waitlist, don't hesitate to reach out via [SIGN UP button](https://darsaveli.github.io/GitHub-Sourcing/).
+The 2026 training is currently ---> on hold <--- If you would like to join the waitlist, don't hesitate to reach out via [SIGN UP button](https://darsaveli.github.io/advanced-github-sourcing/).
 
 ### Stay tuned for updates! 
